@@ -23,18 +23,24 @@ Sebagai catatan:
 - Menampilkan hasil total pembayaran ke layar.
 
 3. peran tipe data dan operatornya:
+
 a. Tipe Data float
 Digunakan untuk menyimpan nilai-nilai mata pelajaran yang bisa berupa angka desimal (misalnya 75.5). Ini penting supaya perhitungan rata-rata lebih akurat.
+
 b. Operator Aritmatika (+ dan /)
 Operator + digunakan untuk menjumlahkan nilai ketiga mata pelajaran. Operator / digunakan untuk membagi jumlah nilai dengan 3 untuk mendapatkan rata-rata.
+
 c. Operator Perbandingan (>)
 Digunakan untuk membandingkan rata-rata dengan nilai batas kelulusan (75). Jika rata-rata lebih besar dari 75, maka siswa dinyatakan lulus.
 
 4. penggunaan array dan pengulangannya
+
 a. Perulangan (for loop):
 Digunakan untuk meminta input nilai dari masing-masing siswa secara berulang sebanyak 5 kali. Ini menghindari penulisan input manual satu per satu.
+
 b. Array (List di Python):
 Digunakan untuk menyimpan nilai-nilai siswa yang dimasukkan secara dinamis. List memungkinkan kita menyimpan beberapa data dalam satu variabel dan mengaksesnya berdasarkan indeks.
+
 c. Fungsi max() dan index():
 max() digunakan untuk mencari nilai tertinggi dalam list. index() untuk mengetahui posisi siswa yang mendapat nilai tertinggi.
 
